@@ -1,5 +1,5 @@
 // AUTHOR: Michael Ziegler
-// FILE: binadd.cpp / Binary Number Addition Program
+// FILE: binadd.cpp / Binary addition program
 // THIS PROGRAM:  Adds two or more binary numbers appearing as command-line
 // arguments.  The resulting sum is sent to stdout.  The arguments are
 // assumed to be well-formed (valid) binary numbers; no error checking
